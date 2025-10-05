@@ -1,0 +1,1 @@
+Sentiment analysis is one of the popular downstream applications of Natural Language Processing, which determines the sentiment expressed in a piece of text. The sentiment expressed in a text is usually classified as positive or negative or neutral. You are expected to train a machine learning model to predict the sentiment of Tweets posted about US Airlines.
